@@ -1,0 +1,4 @@
+baseURL = "http://psaux.in/"
+languageCode = "en-us"
+title = "Hugo Site"
+theme = "hyde"
