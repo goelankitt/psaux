@@ -1,0 +1,8 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:ankit1ank/ankit1ank.github.io.git
+	branch = master
+[submodule "themes/hyde"]
+	path = themes/hyde
+	url = https://github.com/spf13/hyde.git
+	branch = master
