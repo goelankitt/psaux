@@ -1,4 +1,18 @@
 baseURL = "http://psaux.in/"
 languageCode = "en-us"
-title = "Hugo Site"
+title = "Ankit Goel"
 theme = "hyde"
+[params]
+    description = "Software Dev"
+[[menu.main]]
+    name = "Posts"
+    pre = "<i class='fa fa-heart'></i>"
+    weight = -110
+    identifier = "posts"
+    url = "/post/"
+[[menu.main]]
+    name = "Twitter: @ankitank"
+    pre = "<i class='fa fa-heart'></i>"
+    weight = -108
+    identifier = ""
+    url = "https://twitter.com/ankitank"
